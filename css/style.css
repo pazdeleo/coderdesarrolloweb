@@ -2,3 +2,7 @@ body {
   background-color: aqua;
   display: grid;
 }
+
+body h1 {
+  color: blueviolet;
+}
